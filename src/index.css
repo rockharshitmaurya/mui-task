@@ -1,0 +1,39 @@
+.video-container{
+  width: 800px;
+  height: 500px;
+  /* position: absolute; */
+  margin-top: 30px;
+  margin-left: 170px;
+}
+
+
+.card-container{
+  margin-left: 200px;
+}
+
+.media-card{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.recipe-card{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-ele{
+  margin: 10px;
+}
+
+.btn{
+  margin: 10px;
+}
+
+.btn-options{
+  margin-top: 20px;
+  /* background-color: red; */
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+  margin-left: 250px;
+  border-radius: 10px;
+  text-align: center;
+}
